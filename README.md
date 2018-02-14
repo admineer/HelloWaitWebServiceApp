@@ -1,5 +1,5 @@
 # HelloWaitWebServiceApp
-Sample Webservice application with desired response times. (Works on Oracle WebLogic 11g/12c)
+Sample Webservice WAR application to test with desired response times. (Works on Oracle WebLogic 11g/12c)
 
 # How to deploy?
 
