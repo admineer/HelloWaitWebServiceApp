@@ -27,9 +27,9 @@ Sample WS Request XML:
 </soap:Envelope>
 ```
 
-# Screen capture?
+# Screen capture:
 
-!()[] 
+![SOAP Request XML by Fevzi Korkutata](http://www.admineer.com/wp-content/uploads/2018/02/sample_webservice_fevzi_korkutata.png)
 
 # YouTube screen cast available:
 
