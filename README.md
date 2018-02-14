@@ -13,6 +13,7 @@ http://localhost:7003/HelloWaitService/HelloWaitWebService1Port?WSDL
 
 Sample WS Request XML:
 
+```xml
 <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wiz="http://wizard/">
    <soap:Header/>
    <soap:Body>
@@ -24,4 +25,4 @@ Sample WS Request XML:
       </wiz:sayHello>
    </soap:Body>
 </soap:Envelope>
-
+```
